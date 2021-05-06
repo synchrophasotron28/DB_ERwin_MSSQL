@@ -1,0 +1,9 @@
+USE Радиостанции
+GO
+DECLARE @QUANTITY INT, @TEXT CHAR(100)
+SET @QUANTITY = (SELECT SUM(Возраст) FROM Сотрудники1)
+SET @TEXT = 'Сумма по полю'
+IF @QUANTITY>=150
+	BEGIN
+		SELECT @TEXT + CAST (@QUANTITY AS CHAR(3))
+	END

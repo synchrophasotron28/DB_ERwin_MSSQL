@@ -1,0 +1,1 @@
+SELECT 'Сегодня: День = ' + CAST(DATENAME(DAY, GETDATE()) AS CHAR(2))

@@ -1,0 +1,12 @@
+USE Радиостанции
+GO
+
+CREATE TRIGGER WORK--
+ON DATABASE
+FOR DROP_TABLE
+AS
+PRINT 'НЕВОЗМОЖНО УДАЛИТЬ ТАБЛИЦУ'
+ROLLBACK;
+GO
+
+DROP TABLE People
