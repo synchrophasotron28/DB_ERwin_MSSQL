@@ -1,0 +1,4 @@
+USE Радиостанции
+GO
+SELECT * FROM BigDataBOSS1
+WHERE BigDataBOSS1.ID_BOSS=50

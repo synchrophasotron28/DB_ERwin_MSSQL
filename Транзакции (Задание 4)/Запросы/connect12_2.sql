@@ -1,0 +1,14 @@
+USE Радиостанции   
+
+GO   
+
+ BEGIN TRAN
+
+    UPDATE TRAN_TABLE1  
+
+        SET COLUMN_2='четыре'  
+
+        WHERE COLUMN_1 = 4;   
+
+SELECT * FROM TRAN_TABLE1 WHERE COLUMN_1=4     
+COMMIT TRANSACTION
