@@ -1,0 +1,10 @@
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\bin\Debug\Karpukhina_project_part3.exe
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\bin\Debug\Karpukhina_project_part3.pdb
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\bin\Debug\Karpukhina_project_part3.xml
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.Resources.resources
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.exe
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.xml
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.pdb
+C:\Documents and Settings\Администратор.SRV01\Local Settings\Application Data\Temporary Projects\Karpukhina_project_part3\obj\Debug\Karpukhina_project_part3.Form1.resources

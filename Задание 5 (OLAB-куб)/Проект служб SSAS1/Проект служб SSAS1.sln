@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Проект служб SSAS1", "Проект служб SSAS1\Проект служб SSAS1.dwproj", "{DE2F339C-64FF-4C0C-92F7-9B7148C5D53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2F339C-64FF-4C0C-92F7-9B7148C5D53C}.Development|Default.ActiveCfg = Development
+		{DE2F339C-64FF-4C0C-92F7-9B7148C5D53C}.Development|Default.Build.0 = Development
+		{DE2F339C-64FF-4C0C-92F7-9B7148C5D53C}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

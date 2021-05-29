@@ -1,0 +1,82 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Проект служб SSAS1</Database>
+    <Server>localhost</Server>
+    <ConnectionString>DataSource=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>4Z+kdj2jb//FuLZDi1YxCg==24.05.2021 14:20:2324.05.2021 14:20:23</TimeStamp>
+        <ID>
+          <String>Adventure Works DW2008</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>IMkAMIS5ZnO2atJYbuL8YQ==24.05.2021 14:40:1824.05.2021 14:23:11</TimeStamp>
+        <ID>
+          <String>Adventure Works DW2008</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>pNZk9WiL/IAnaSrPmeM4lQ==24.05.2021 14:48:5524.05.2021 14:40:18</TimeStamp>
+        <ID>
+          <String>Дата</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>uu3DilUmFo9RGqeM8vlz9g==24.05.2021 14:53:1624.05.2021 14:48:55</TimeStamp>
+        <ID>
+          <String>Продукт</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>s52pXucjg/8lF9qwyocHKQ==24.05.2021 14:58:1924.05.2021 14:53:16</TimeStamp>
+        <ID>
+          <String>Клиент</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>DDXp4P9TzNNUsnBySQzwHA==24.05.2021 14:58:1924.05.2021 14:58:18</TimeStamp>
+        <ID>
+          <String>Продажи Через Internet</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>2+q7muemN2XxIh2C59P2SQ==24.05.2021 15:13:4324.05.2021 14:58:18n8JZxkm3r+ZFUJkqngnqHA==24.05.2021 14:58:1924.05.2021 14:58:18</TimeStamp>
+        <ID>
+          <String>Adventure Works DW2008</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>dKYtdgSSeNjqMuK0Glnbxw==06.03.2013 11:36:0006.03.2013 11:35:58</TimeStamp>
+      <ID>
+        <String>Проект служб SSAS1</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>false</ProcessingComplete>
+  <LastDeployed>2021-05-24T11:17:43.976667Z</LastDeployed>
+</DeploymentSnapshot>
