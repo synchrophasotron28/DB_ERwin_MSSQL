@@ -1,0 +1,4 @@
+SELECT Оклад
+FROM Должности1
+WHERE Оклад BETWEEN '20000' AND '40000'
+ORDER BY Оклад

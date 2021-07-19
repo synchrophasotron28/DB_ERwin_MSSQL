@@ -1,0 +1,3 @@
+INSERT INTO TOPReiting 
+
+VALUES (1, 5); 
